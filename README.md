@@ -27,7 +27,7 @@ O **EcoTrack** é uma plataforma web moderna e responsiva dedicada à monitoriza
 ## 📸 Demonstração
 
 ### Tema Claro
-![Screenshot Light Mode](./public/light-mode.png)
+![Screenshot Light Mode](./public/light_mode.png)
 
 ### Tema Escuro
 ![Screenshot Dark Mode](./public/dark_mode.png)
