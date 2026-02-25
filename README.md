@@ -25,8 +25,14 @@ O **EcoTrack** é uma plataforma web moderna e responsiva dedicada à monitoriza
 - **OpenWeather API** (Dados de Geocoding e Poluição)
 
 ## 📸 Demonstração
-   `![Screenshot do Projeto](assets/demo1.png)`
-   `![Screenshot do Projeto](assets/demo2.png)`
+
+### Tema Claro
+![Screenshot Light Mode](./public/light-mode.png)
+
+### Tema Escuro
+![Screenshot Dark Mode](./public/dark_mode.png)
+
+---
 
 ## 🚀 Como Executar o Projeto
 
